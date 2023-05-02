@@ -19,4 +19,5 @@ body
 {
 	vertical-align:top;
 	margin-top: 16px;
+	max-width: 100vw;
 }
